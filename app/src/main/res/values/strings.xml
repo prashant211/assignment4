@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dummy4</string>
+    <string name="converted_amount">Converted Amount: %.2f %s</string>
+    <string name="error_conversion">Error converting currency.</string>
+    <string name="error_network">Network error occurred. Please check your internet connection.</string>
+    <string name="error_server">Server error occurred. Please try again later.</string>
+    <string name="error_generic">An error occurred. Please try again.</string>
+
+</resources>
